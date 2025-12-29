@@ -1,4 +1,13 @@
 {
+  "countdown": {
+    "title": "New Year Countdown",
+    "year": 2026,
+    "month": 1,
+    "day": 1,
+    "hour": 0,
+    "minute": 0,
+    "second": 0
+  },
   "affirmations": [
     "You are insanely talented",
     "You are enough.",
